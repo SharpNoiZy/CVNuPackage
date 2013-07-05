@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>XdX.CVNuPackage</id>
+        <version>0.0.0</version>
+        <title>CVNuPackage</title>
+        <authors>Christian Neuß</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>This little application creates a NuGet package automatically in an "post build" event with a version given by a specified .dll or .exe file.</description>
+        <summary>A readme file is included</summary>
+        <releaseNotes>Initial release</releaseNotes>
+        <tags>NuGet</tags>
+    </metadata>
+    <files>
+        <file src="..\bin\Release\CVNuPackage.exe" target="content\_NuGet\CVNuPackage.exe" />
+        <file src="..\bin\Release\nuget.exe" target="content\_NuGet\nuget.exe" />
+        <file src="..\readme.txt" target="content\_NuGet\readme.txt" />
+    </files>
+</package>

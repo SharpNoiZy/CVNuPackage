@@ -1,0 +1,9 @@
+
+
+05.07.2013 16:25:57:
+.nuspec file does not exist!
+[.nuspec]
+
+05.07.2013 16:27:56:
+.nuspec file does not exist!
+[.nuspec]

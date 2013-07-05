@@ -1,0 +1,6 @@
+c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\CVNuPackage.exe.config
+c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\CVNuPackage.exe
+c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\CVNuPackage.pdb
+c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Release\CVNuPackage.exe
+c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Release\CVNuPackage.pdb
+c:\Users\cneuss\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\nuget.exe
