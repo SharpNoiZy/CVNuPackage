@@ -80,7 +80,7 @@ namespace CVNuPackage
 			}
 			catch (Exception ex)
 			{
-				File.AppendAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "log.txt"), "\r\n\r\n" + DateTime.Now.ToString() + ":\r\n" + ex.Message + "");
+				File.AppendAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "log.txt"), DateTime.Now.ToString() + ":\r\n" + ex.Message + "\r\n\r\n");
 			}
 		}
 	}

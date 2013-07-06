@@ -26,4 +26,10 @@ Optional (Required if a 4th parameter is given) third parameter:
 	2. Specify a .nuspec file path with filename (".nuspec" extension is not required)
 		- If your ".nuspec" file is in a different directory that this tool
 	3. If a 4th parameter is given you have two possibilities
-		1)
+		1) Leave the parameter blank, like in the second example, than it is like point 1 above
+		2) Specify something, than it is like point 2 above, I think it is clear how it works
+	4. This parameter is everything you want to give as arguments to the nuget.exe console application, shown in example 2
+
+
+Errors and Exceptions:
+Will be written in the same directory where this application is, look for a log.txt
