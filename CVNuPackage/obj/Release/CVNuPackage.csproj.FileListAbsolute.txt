@@ -10,3 +10,4 @@ C:\Users\Christian\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage
 C:\Users\Christian\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\nuget.exe
 C:\Users\Christian\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\CVNuPackage.exe
 C:\Users\Christian\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Release\CVNuPackage.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Release\CVNuPackage.csprojResolveAssemblyReference.cache
