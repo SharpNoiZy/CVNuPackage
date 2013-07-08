@@ -1,7 +1,0 @@
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Debug\CVNuPackage.exe.config
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Debug\CVNuPackage.exe
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Debug\CVNuPackage.pdb
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Debug\CVNuPackage.csprojResolveAssemblyReference.cache
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Debug\CVNuPackage.exe
-c:\users\cneuss\documents\visual studio 2013\Projects\CVNuPackage\CVNuPackage\obj\Debug\CVNuPackage.pdb
-c:\Users\cneuss\Documents\Visual Studio 2013\Projects\CVNuPackage\CVNuPackage\bin\Debug\nuget.exe
